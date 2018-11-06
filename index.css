@@ -52,21 +52,7 @@
             
                 
 }
-.column1 {
-  background-image: url('http://eskipaper.com/images/colorful-scenery-1.jpg');
-  background-position: center;
-}
 
-.column2 {
-  background-image: url('http://www.photofurl.com/wp-content/uploads/2011/05/cool-scenery-wallpaper-for-computer-desktop-1024x640.jpg');
-  background-position:left;
-}
-
-.column3 {
-  background-image: url('http://m.img.brothersoft.com/android/728/1352567956_screen.jpg');
-  margin-right:0%;
- 
-}
 
 #footer {
 background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/1544/1544014-bigthumbnail.jpg')
@@ -79,5 +65,4 @@ h1 {
         font-size:250%;
 
 }
-
 
