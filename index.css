@@ -1,86 +1,171 @@
 * {
+
 			
+
       font-family: 'DancingScriptRegular';
+
   
+
+
 
         font-weight: normal;
 
+
+
         font-style: normal;
 
+
+
          
+
   
+
 				text-align: center;
+
       
+
   
+
          color:blue
+
                 }
 
+
+
 			body {
+
 				width: 90%;
+
 				margin: 0 auto;
+
                 background-color:#35f8ff;
+
                 background-image: url('https://i.pinimg.com/736x/70/81/a3/7081a3583ded8c4ee9c1904299b2e431.jpg');
+
                 background-size: contain;
+
            
+
                 background-position: center;
 
 
+
+
+
 }
+
 			#content {
+
 				overflow: auto;}
+
 			#nav, #feature, #footer {
+
 				margin: 1%;}
+
 			.column1, .column2, .column3 {
+
 				width: 31.3%;
+
 				float: left;
+
 				margin: 1%;}
+
 			
+
 			li {
+
 				display: inline;
+
 				padding: 0.5em;}
+
 			#nav, #footer {
+
 				background-color: #efefef;
+
 				padding: 0.5em 0;}
+
 			#feature, .article {
+
 				height: 10em;
+
 				margin-bottom: 1em;
+
 				background-color: #efefef;
+
 }
+
             
+
             #nav { background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/498/498008-bigthumbnail.jpg'); }
+
       
+
             #feature {
+
               
+
               background-color:#db740c;
+
      
+
        
+
             
+
                 
+
 }
+
+
+
 
 
 #footer {
+
 background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/1544/1544014-bigthumbnail.jpg')
+
 }
 
+
+
 h1 {
+
   color:#41ba25; 
+
     font-family:'DancingScriptRegular';
+
+
 
         font-size:250%;
 
+
+
 }
+
+
+
+
 
 
 
 #intro {
+
   color:#390000;
+
   text-align: justify;
+
   text-decoration: underline;
-   text-shadow: 2px 2px blue;
+
+   text-shadow: 1px 1px blue;
+
    font-size: 20px;
 
+
+
 }
+
+
+
 
 
 
